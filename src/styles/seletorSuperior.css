@@ -1,0 +1,19 @@
+header {
+    min-height: 100px;
+    background-color: white;
+}
+
+nav{
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+}
+
+.botao{
+    color: black;
+    text-decoration: none;
+}
+
+.botao:hover{
+    color: darkblue;
+    text-decoration: underline;
+}

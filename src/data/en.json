@@ -1,0 +1,11 @@
+{
+  "seletorSuperior": {
+      "home": "Home",
+      "pessoa": "People"
+  },
+
+  "sobre": {
+      "titulo": "Sobre nós",
+      "descricao": "Conheça o projeto CogitoLab."
+  }
+}
