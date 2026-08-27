@@ -3,6 +3,10 @@ header {
     height: 70px;
     background-color: #050b16;
     border-bottom: 3px solid #1b2638;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
 
 nav {
