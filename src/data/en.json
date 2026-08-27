@@ -1,7 +1,7 @@
 {
     "seletorSuperior": {
         "inicio": "Home",
-        "pesquisas": "Research",
+        "pesquisas": "Research Areas",
         "pessoa": "People",
         "projetos": "Projects",
         "publicacoes": "Publications",
@@ -10,8 +10,14 @@
         "juntar": "Join Us",
         "parceiros": "Partners"
     },
-    "sobre": {
-        "titulo": "Sobre nós",
-        "descricao": "Conheça o projeto CogitoLab."
-    }
+    "inicio": {
+        "ReneDescTitulo":"Inspiration Behind the Name",
+        "ReneDesc": "The name Cogito Lab is inspired by the famous expression of French philosopher René Descartes, “Cogito, ergo sum” — “I think, therefore I am.” The idea reflects the importance of thought, reflection, and the pursuit of knowledge, principles that guide the laboratory's vision.",
+        "descricaoTitulo":"About the Laboratory",
+        "descricao": "Cogito Lab is a space dedicated to research, experimentation, and the development of ideas. The laboratory brings together researchers interested in exploring different fields of knowledge, fostering collaboration and the creation of new perspectives.",
+        "missaoTitulo":"Our mission",
+        "missao": "Our mission is to encourage research and critical thinking, transforming ideas and questions into knowledge, experiments, and solutions. Cogito Lab aims to create a collaborative environment where researchers can investigate, share, and develop new ideas.",
+        "instituicoesTitulo":"Researchers and Institutions",
+        "instituicoes": "The laboratory brings together researchers affiliated with different academic and research institutions, promoting collaboration across different fields and perspectives."
+   }
 }

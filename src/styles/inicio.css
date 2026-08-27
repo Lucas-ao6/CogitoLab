@@ -1,0 +1,32 @@
+body {
+    background-color: #050b16;
+}
+
+h1 {
+    margin-top: 8vh;
+    margin-left: 7vw;
+    margin-bottom: 1vh;
+    font-size: clamp(3.5rem, 8vw, 6rem);
+    color: #e8eaff;
+}
+
+h1 span {
+    background: linear-gradient(90deg, #818cf8, #e879f9);
+    background-clip: text;
+    color: transparent;
+}
+
+h2 {
+    margin: 0vh 7vw;
+    font-size: clamp(1.4rem, 3vw, 3rem);
+    font-weight: 400;
+    color: #d1d3eb;
+}
+
+h3 {
+    margin: 0 7vw;
+    font-size: clamp(1rem, 2vw, 1.4rem);
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(155, 155, 179);
+}

@@ -26,10 +26,10 @@ function aplicarIdioma() {
     });
 
     if (idioma === "pt") {
-        botao.textContent = "EN";
+        botao.textContent = "PT";
     } 
     else {
-        botao.textContent = "PT";
+        botao.textContent = "EN";
     }
 }
 
