@@ -1,19 +1,58 @@
 header {
-    min-height: 100px;
-    background-color: white;
+    width: 100vw;
+    height: 70px;
+    background-color: #050b16;
+    border-bottom: 1px solid #1b2638;
 }
 
-nav{
-    display: grid;
-    grid-template-columns: repeat(9, 1fr);
+nav {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 70px;
+    gap: 25px;
 }
 
-.botao{
-    color: black;
+img {
+    max-height: 80%;
+    min-height: 30%;
+    height: auto;
+    margin-right: auto;
+}
+
+
+.botao {
+    height: 70px;
+    display: flex;
+    align-items: center;
     text-decoration: none;
+    color: #aeb5c2;
+    font-size: 13px;
+    position: relative;
+    transition: 0.2s;
 }
 
-.botao:hover{
-    color: darkblue;
-    text-decoration: underline;
+.botao:hover {
+    color: white;
+}
+
+.botao.ativo {
+    color: white;
+}
+
+#idioma {
+    margin-left: 20px;
+    padding: 8px 14px;
+    background-color: #0a1220;
+    color: #d7dbe3;
+    border: 1px solid #303b50;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#idioma:hover {
+    border-color: #8b5cf6;
+    background-color: #101a2b;
 }

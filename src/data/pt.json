@@ -1,11 +1,17 @@
 {
-  "seletorSuperior": {
-      "home": "Home",
-      "pessoa": "Pessoas"
-  },
-
-  "sobre": {
-      "titulo": "Sobre nós",
-      "descricao": "Conheça o projeto CogitoLab."
-  }
+    "seletorSuperior": {
+        "inicio": "Início",
+        "pesquisas": "Pesquisas",
+        "pessoa": "Pessoas",
+        "projetos": "Projetos",
+        "publicacoes": "Publicações",
+        "artefatos": "Artefatos",
+        "noticias": "Notícias",
+        "juntar": "Junte-se",
+        "parceiros": "Parceiros"
+    },
+    "sobre": {
+        "titulo": "Sobre nós",
+        "descricao": "Conheça o projeto CogitoLab."
+    }
 }
