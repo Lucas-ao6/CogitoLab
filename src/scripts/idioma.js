@@ -1,5 +1,5 @@
-import pt from "../../src/data/pt.json";
-import en from "../../src/data/en.json";
+import pt from "../data/pt.json";
+import en from "../data/en.json";
 
 let idioma = localStorage.getItem("idioma");
 
