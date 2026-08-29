@@ -1,6 +1,6 @@
 header {
     width: 100vw;
-    height: 70px;
+    height: 10vh;
     background-color: #050b16;
     border-bottom: 3px solid #1b2638;
     position: fixed;
@@ -14,8 +14,8 @@ nav {
     height: 100%;
     display: flex;
     align-items: center;
-    padding: 0 70px;
-    gap: 25px;
+    padding: 0 4%;
+    gap: 2%;
 }
 
 img {
@@ -27,12 +27,11 @@ img {
 
 
 .botao {
-    height: 70px;
     display: flex;
     align-items: center;
     text-decoration: none;
     color: #aeb5c2;
-    font-size: 13px;
+    font-size: clamp(0.5rem , 0.8rem, 1.3rem);
     position: relative;
     transition: 0.2s;
 }
@@ -45,9 +44,9 @@ img {
     color: white;
 }
 
-#idioma {
-    margin-left: 20px;
-    padding: 8px 14px;
+#botIdioma {
+    margin-left: 2vw;
+    padding: 1vh 1vw;
     background-color: #0a1220;
     color: #d7dbe3;
     border: 1px solid #303b50;

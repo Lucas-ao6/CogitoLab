@@ -11,13 +11,30 @@
         "parceiros": "Partners"
     },
     "inicio": {
-        "ReneDescTitulo":"Inspiration Behind the Name",
+        "ReneDescTitulo": "Inspiration Behind the Name",
         "ReneDesc": "The name Cogito Lab is inspired by the famous expression of French philosopher René Descartes, “Cogito, ergo sum” — “I think, therefore I am.” The idea reflects the importance of thought, reflection, and the pursuit of knowledge, principles that guide the laboratory's vision.",
-        "descricaoTitulo":"About the Laboratory",
+        "descricaoTitulo": "About the Laboratory",
         "descricao": "Cogito Lab is a space dedicated to research, experimentation, and the development of ideas. The laboratory brings together researchers interested in exploring different fields of knowledge, fostering collaboration and the creation of new perspectives.",
-        "missaoTitulo":"Our mission",
+        "missaoTitulo": "Our mission",
         "missao": "Our mission is to encourage research and critical thinking, transforming ideas and questions into knowledge, experiments, and solutions. Cogito Lab aims to create a collaborative environment where researchers can investigate, share, and develop new ideas.",
-        "instituicoesTitulo":"Researchers and Institutions",
+        "instituicoesTitulo": "Researchers and Institutions",
         "instituicoes": "The laboratory brings together researchers affiliated with different academic and research institutions, promoting collaboration across different fields and perspectives."
-   }
+    },
+    "pesquisas": {
+        "titulo": "Discover different fields and their possibilities"
+    },
+    "cardPesquisas": {
+        "titulo": "Overview of the field",
+        "texto": "Learn about the main concepts, characteristics, and possibilities related to this field.",
+        "titulo2": "Fundamental concepts",
+        "texto2": "Explore the essential knowledge that helps you better understand this field and its applications.",
+        "titulo3": "Applications and possibilities",
+        "texto3": "Discover how the knowledge from this field can be applied to different situations and contexts.",
+        "titulo4": "Importance of the field",
+        "texto4": "Understand the relevance of this field and how it can contribute to different sectors and activities.",
+        "titulo5": "Knowledge and innovation",
+        "texto5": "See how new knowledge, ideas, and technologies can transform and expand the possibilities within this field.",
+        "titulo6": "Future perspectives",
+        "texto6": "Learn about some of the trends and possibilities that may influence the development of this field in the future."
+    }
 }

@@ -12,7 +12,7 @@ const idiomas = {
     en: en
 };
 
-const botao = document.querySelector("#idioma");
+const botao = document.querySelector("#botIdioma");
 
 function aplicarIdioma() {
     const traducoes = idiomas[idioma];

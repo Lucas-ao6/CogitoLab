@@ -1,0 +1,9 @@
+---
+import "../styles/cardPesquisas.css";
+const { titulo, texto } = Astro.props;
+---
+
+<div>
+    <h2 data-traducao={titulo}></h2>
+    <h3 data-traducao={texto}></h3>
+</div>

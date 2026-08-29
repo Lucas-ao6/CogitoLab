@@ -11,13 +11,30 @@
         "parceiros": "Parceiros"
     },
     "inicio": {
-        "ReneDescTitulo":"Inspiração do nome",
+        "ReneDescTitulo": "Inspiração do nome",
         "ReneDesc": "O nome Cogito Lab é inspirado na célebre expressão do filósofo francês René Descartes, “Cogito, ergo sum” — “Penso, logo existo”. A ideia representa a importância do pensamento, da reflexão e da busca pelo conhecimento, princípios que orientam a proposta do laboratório.",
-        "descricaoTitulo":"Sobre o laboratório",
+        "descricaoTitulo": "Sobre o laboratório",
         "descricao": "O Cogito Lab é um espaço dedicado à pesquisa, experimentação e desenvolvimento de ideias. O laboratório reúne pesquisadores interessados em explorar diferentes áreas do conhecimento, promovendo a colaboração e a criação de novas perspectivas.",
-        "missaoTitulo":"Nossa missão",
+        "missaoTitulo": "Nossa missão",
         "missao": "Nossa missão é incentivar a pesquisa e o pensamento crítico, transformando ideias e questionamentos em conhecimento, experimentos e soluções. O Cogito Lab busca criar um ambiente colaborativo onde pesquisadores possam investigar, compartilhar e desenvolver novas ideias.",
-        "instituicoesTitulo":"Pesquisadores e instituições",
+        "instituicoesTitulo": "Pesquisadores e instituições",
         "instituicoes": "O laboratório reúne pesquisadores vinculados a diferentes instituições acadêmicas e de pesquisa, promovendo a colaboração entre diferentes áreas e perspectivas."
+    },
+    "pesquisas": {
+        "titulo": "Conheça diferentes áreas e suas possibilidades"
+    },
+    "cardPesquisas": {
+        "titulo": "Visão geral da área",
+        "texto": "Conheça os principais conceitos, características e possibilidades relacionadas a esta área.",
+        "titulo2": "Conceitos fundamentais",
+        "texto2": "Explore os conhecimentos essenciais que ajudam a compreender melhor esta área e suas aplicações.",
+        "titulo3": "Aplicações e possibilidades",
+        "texto3": "Descubra como os conhecimentos desta área podem ser utilizados em diferentes situações e contextos.",
+        "titulo4": "Importância da área",
+        "texto4": "Entenda a relevância desta área e como ela pode contribuir para diferentes setores e atividades.",
+        "titulo5": "Conhecimento e inovação",
+        "texto5": "Veja como novos conhecimentos, ideias e tecnologias podem transformar e ampliar as possibilidades desta área.",
+        "titulo6": "Perspectivas futuras",
+        "texto6": "Conheça algumas das tendências e possibilidades que podem influenciar o desenvolvimento desta área no futuro."
     }
 }
