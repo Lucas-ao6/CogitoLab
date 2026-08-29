@@ -28,3 +28,18 @@
     line-height: 1.6;
     color: rgb(155, 155, 179);
 }
+
+.cardPesquisas h4 {
+    font-size: clamp(0.5rem, 0.9rem, 1.3rem);
+    font-weight: 400;
+    line-height: 1.2;
+    color: rgb(148, 148, 156);
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+.cardPesquisas h5 {
+    font-size: clamp(0.5rem, 0.9rem, 1.3rem);
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(205, 205, 235);
+}

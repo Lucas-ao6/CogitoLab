@@ -1,9 +1,11 @@
 ---
 import "../styles/cardPesquisas.css";
-const { titulo, texto } = Astro.props;
+const { titulo, texto, temas, projetos } = Astro.props;
 ---
 
 <div class="cardPesquisas">
     <h2 data-traducao={titulo}></h2>
     <h3 data-traducao={texto}></h3>
+    <h4 data-traducao={temas}></h4>
+    <h5 data-traducao={projetos}></h5>
 </div>
