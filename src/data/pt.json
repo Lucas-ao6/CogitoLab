@@ -21,20 +21,20 @@
         "instituicoes": "O laboratório reúne pesquisadores vinculados a diferentes instituições acadêmicas e de pesquisa, promovendo a colaboração entre diferentes áreas e perspectivas."
     },
     "pesquisas": {
-        "titulo": "Conheça diferentes áreas e suas possibilidades"
+        "titulo": "Descubra nossas áreas de pesquisa"
     },
     "cardPesquisas": {
-        "titulo": "Visão geral da área",
-        "texto": "Conheça os principais conceitos, características e possibilidades relacionadas a esta área.",
-        "titulo2": "Conceitos fundamentais",
-        "texto2": "Explore os conhecimentos essenciais que ajudam a compreender melhor esta área e suas aplicações.",
-        "titulo3": "Aplicações e possibilidades",
-        "texto3": "Descubra como os conhecimentos desta área podem ser utilizados em diferentes situações e contextos.",
-        "titulo4": "Importância da área",
-        "texto4": "Entenda a relevância desta área e como ela pode contribuir para diferentes setores e atividades.",
-        "titulo5": "Conhecimento e inovação",
-        "texto5": "Veja como novos conhecimentos, ideias e tecnologias podem transformar e ampliar as possibilidades desta área.",
-        "titulo6": "Perspectivas futuras",
-        "texto6": "Conheça algumas das tendências e possibilidades que podem influenciar o desenvolvimento desta área no futuro."
+        "titulo": "Inteligência Artificial para Engenharia de Software",
+        "texto": "Investiga o uso de Inteligência Artificial, particularmente Modelos de Linguagem de Grande Escala (LLMs) e ferramentas de programação assistida por IA, para apoiar atividades de desenvolvimento de software. Os tópicos incluem geração de código, correção de bugs, manutenção de software, revisão de código, refatoração, engenharia de prompts, agentes de IA para engenharia de software e avaliação da qualidade, correção, segurança e utilidade de artefatos de software gerados por IA.",
+        "titulo2": "Qualidade de Software, Dívida Técnica e Refatoração",
+        "texto2": "Estuda técnicas para compreender, avaliar e melhorar a qualidade interna, a manutenibilidade e a evolução dos sistemas de software. Os tópicos incluem dívida técnica, code smells, test smells, manutenibilidade de software, métricas de qualidade de código, evolução de software, refatoração, refatoração automatizada e o uso de IA para identificar e solucionar problemas de qualidade.",
+        "titulo3": "Testes de Software e Confiabilidade",
+        "texto3": "Concentra-se em métodos, técnicas e ferramentas para melhorar os testes de software e aumentar a confiabilidade dos sistemas de software. Os tópicos incluem geração automatizada de testes, qualidade do código de teste, cobertura de testes, detecção de falhas, test smells, análise estática e dinâmica, refatoração de código de teste, avaliação de confiabilidade e testes de software assistidos por IA.",
+        "titulo4": "Sistemas Configuráveis, Mobile e IoT",
+        "texto4": "Investiga sistemas de software cujo comportamento depende de combinações de funcionalidades, recursos, dispositivos ou contextos de execução. Os tópicos incluem variabilidade de software, interações entre funcionalidades e recursos, sistemas configuráveis, aplicações móveis, sistemas de Internet das Coisas (IoT), falhas de interação, software sensível ao contexto, ambientes com recursos limitados e técnicas para detectar e corrigir falhas nesses sistemas.",
+        "titulo5": "Desenvolvimento Colaborativo de Software e Engenharia de Software Empírica",
+        "texto5": "Estuda como o software é desenvolvido e evoluído por equipes, com ênfase em evidências obtidas a partir de projetos de software e desenvolvedores reais. Os tópicos incluem conflitos de merge, coordenação entre desenvolvedores, sistemas de controle de versão, desenvolvimento colaborativo, repositórios de software, mineração de repositórios de software, evolução de software, aspectos humanos e sociais da engenharia de software e métodos empíricos para compreender as práticas de desenvolvimento de software.",
+        "titulo6": "Inovação, Empreendedorismo e Transferência de Tecnologia",
+        "texto6": "Investiga como o conhecimento científico e tecnológico pode ser transformado em inovação, novos negócios e impacto socioeconômico. Os tópicos incluem ecossistemas de inovação, empreendedorismo acadêmico, startups, spin-offs, ideação, incubação, aceleração, transferência de tecnologia, propriedade intelectual, gestão da inovação, colaboração entre universidade, indústria e governo, inovação aberta e desenvolvimento regional por meio da ciência, tecnologia e empreendedorismo."
     }
 }

@@ -21,20 +21,20 @@
         "instituicoes": "The laboratory brings together researchers affiliated with different academic and research institutions, promoting collaboration across different fields and perspectives."
     },
     "pesquisas": {
-        "titulo": "Discover different fields and their possibilities"
+        "titulo": "Discover our research areas"
     },
     "cardPesquisas": {
-        "titulo": "Overview of the field",
-        "texto": "Learn about the main concepts, characteristics, and possibilities related to this field.",
-        "titulo2": "Fundamental concepts",
-        "texto2": "Explore the essential knowledge that helps you better understand this field and its applications.",
-        "titulo3": "Applications and possibilities",
-        "texto3": "Discover how the knowledge from this field can be applied to different situations and contexts.",
-        "titulo4": "Importance of the field",
-        "texto4": "Understand the relevance of this field and how it can contribute to different sectors and activities.",
-        "titulo5": "Knowledge and innovation",
-        "texto5": "See how new knowledge, ideas, and technologies can transform and expand the possibilities within this field.",
-        "titulo6": "Future perspectives",
-        "texto6": "Learn about some of the trends and possibilities that may influence the development of this field in the future."
+        "titulo": "Artificial Intelligence for Software Engineering",
+        "texto": "Investigates the use of Artificial Intelligence, particularly Large Language Models and AI-assisted coding tools, to support software development activities. Topics include code generation, bug fixing, software maintenance, code review, refactoring, prompt engineering, AI agents for software engineering, and the evaluation of the quality, correctness, security, and usefulness of AI-generated software artifacts.",
+        "titulo2": "Software Quality, Technical Debt & Refactoring",
+        "texto2": "Studies techniques to understand, assess, and improve the internal quality, maintainability, and evolution of software systems. Topics include technical debt, code smells, test smells, software maintainability, code quality metrics, software evolution, refactoring, automated refactoring, and the use of AI to identify and address quality problems.",
+        "titulo3": "Software Testing & Reliability",
+        "texto3": "Focuses on methods, techniques, and tools for improving software testing and increasing the reliability of software systems. Topics include automated test generation, quality of test code, test coverage, fault detection, test smells, static and dynamic analysis, test-code refactoring, reliability assessment, and AI-assisted software testing.",
+        "titulo4": "Configurable Systems, Mobile & IoT",
+        "texto4": "Investigates software systems whose behavior depends on combinations of features, resources, devices, or execution contexts. Topics include software variability, feature and resource interactions, configurable systems, mobile applications, Internet of Things systems, interaction failures, context-aware software, resource-constrained environments, and techniques for detecting and correcting failures in such systems.",
+        "titulo5": "Collaborative Software Development & Empirical Software Engineering",
+        "texto5": "Studies how software is developed and evolved by teams, with emphasis on evidence obtained from real software projects and developers. Topics include merge conflicts, developer coordination, version control systems, collaborative development, software repositories, mining software repositories, software evolution, human and social aspects of software engineering, and empirical methods for understanding software development practices.",
+        "titulo6": "Innovation, Entrepreneurship & Technology Transfer",
+        "texto6": "Investigates how scientific and technological knowledge can be transformed into innovation, new ventures, and socioeconomic impact. Topics include innovation ecosystems, academic entrepreneurship, startups, spin-offs, ideation, incubation, acceleration, technology transfer, intellectual property, innovation management, university-industry-government collaboration, open innovation, and regional development through science, technology, and entrepreneurship."
     }
 }

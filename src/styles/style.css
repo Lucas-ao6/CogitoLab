@@ -38,10 +38,11 @@ body {
     margin-top: 3vw;
     font-size: clamp(2rem, 3rem, 4rem);
 }
-#pesquisas #cards{
-    width: 100vw;
+#pesquisas #cards {
+    width: 100%;
     display: grid;
-    gap: 10px;
-    align-items: center;
     grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    justify-items: center;
 }
+
